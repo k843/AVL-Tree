@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  assignment1.cpp
+assignment1.obj : error LNK2019: unresolved external symbol "void __cdecl add(void)" (?add@@YAXXZ) referenced in function _main
+assignment1.obj : error LNK2019: unresolved external symbol "void __cdecl print(void)" (?print@@YAXXZ) referenced in function _main
+C:\Users\cboatface\Desktop\assignment1A\assignment1\Debug\assignment1.exe : fatal error LNK1120: 2 unresolved externals
